@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['CrossWalk', 'G_Signal', 'R_Signal']
+
+roboflow:
+  workspace: trafficlight-7r04p
+  project: traffic-light-prnso
+  version: 8
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/trafficlight-7r04p/traffic-light-prnso/dataset/8

@@ -1,0 +1,62 @@
+{
+    "model": {
+        "xml": "best.xml",
+        "bin": "best.bin"
+    },
+    "nn_config": {
+        "output_format": "detection",
+        "NN_family": "YOLO",
+        "input_size": "416x416",
+        "NN_specific_metadata": {
+            "classes": 3,
+            "coordinates": 4,
+            "anchors": [
+                5.91015625,
+                13.765625,
+                27.109375,
+                33.40625,
+                126.625,
+                12.7265625,
+                52.0,
+                109.9375,
+                83.0625,
+                83.875,
+                246.875,
+                47.09375,
+                233.625,
+                83.75,
+                348.0,
+                82.5625,
+                351.5,
+                113.8125
+            ],
+            "anchor_masks": {
+                "side52": [
+                    0,
+                    1,
+                    2
+                ],
+                "side26": [
+                    3,
+                    4,
+                    5
+                ],
+                "side13": [
+                    6,
+                    7,
+                    8
+                ]
+            },
+            "iou_threshold": 0.5,
+            "confidence_threshold": 0.5
+        }
+    },
+    "mappings": {
+        "labels": [
+            "CrossWalk",
+            "G_Signal",
+            "R_Signal"
+        ]
+    },
+    "version": 1
+}
