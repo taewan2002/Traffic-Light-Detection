@@ -30,7 +30,7 @@ The dataset used for this project is available on Roboflow and includes images a
 
 To get started, clone this repository and install the necessary dependencies:
 
-[notebook]()
+[notebook](https://github.com/taewan2002/Traffic-Light-Detection/blob/main/main.ipynb)
 
 ```bash
 git clone https://github.com/ultralytics/yolov5.git
@@ -53,6 +53,8 @@ python train.py --img 360 --batch 256 --epochs 50 --data ../data.yaml --cfg mode
 ![](https://github.com/taewan2002/cs224n/assets/89565530/6bb61205-da66-47ee-851c-5848752bf96a)
 
 ## Results
+
+[wandb link](https://wandb.ai/taewan2002/traffic_light_yolov5s/runs/res0rm6q?nw=nwusertaewan2002)
 
 Test modal with this camera
 
