@@ -74,3 +74,12 @@ Test the model with camera
 |---|---|---|
 
 It works well!!
+
+## More Work
+
+How about vision-language model (VLM), PaliGemma-3b [link](https://huggingface.co/spaces/big-vision/paligemma)
+
+![](https://github.com/taewan2002/Traffic-Light-Detection/assets/89565530/25333457-28b9-4af6-b023-d5ed318076d6)
+
+
+![](https://github.com/taewan2002/Traffic-Light-Detection/assets/89565530/3665fc97-905d-4a6c-8f9d-c085a177dd9c)
