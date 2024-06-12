@@ -12,7 +12,7 @@ This repository contains the implementation of a traffic light detection model f
 
 ## Introduction
 
-Traffic light detection is a critical component in autonomous driving systems. This project aims to fine-tune a pre-trained YOLOv5 model to accurately detect traffic lights in images.
+Traffic light detection is a critical component in autonomous driving systems. This project aims to fine-tune a pre-trained YOLOv5 model to accurately detect traffic lights in images. [Paper](https://github.com/taewan2002/Traffic-Light-Detection/blob/main/Traffic_Light_Detection.pdf)
 
 ## Dataset
 
